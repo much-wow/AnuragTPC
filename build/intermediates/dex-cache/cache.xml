@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_1010f4d8b42d79cc06b55fbc736c18a411c7c317\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_be40a2453d41a8502b61c3d70ed265d6eea46dfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd7ec83419bfd0271973500279c06c66265ec97c">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3066eaee555c2fb4cc7e472e7f507a08b3c290f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_02fa37b339e9a2134b2e36b214e9fb1190e4fc64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_3250a24cd494ff803efef27dd3ae78816047928f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_f378b57e212e8d1fcee97259a4a010b554efa50d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_d6282681504a63e759533763c51849488cf646a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_9a245e8e9b395d2567ce73e8b94bab20775b0782\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_b40feeebe94d32f0ef1d8e202492fad89b26e27a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_4250d5ef49fdcca39ea1bcbd0e8eabaedd66ea10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_102fcdeaf2ce8a6ff29e15b08a3ae88304415265\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_3f9534a6b3532302f0c126aac7d98e00eb21a64b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="71d1465275a2719bc0ee46f01e08d27136e64617">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_950e7ea255d9a16754d0f6b4736dc63465d530f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6285b46d54995f72a130972b3e59d3a828b43bd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_396e8284960c1646dc9d742fb96f7a4764bfac13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6fa6810f91c6cc5b9c0bef604b294d8c813a53bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Arkopath\Desktop\anurag\AnuragTPC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_155b363e58e0c76f4cc8d51d18bc0410bd2f1084\classes.dex" />
+    </item>
+
+</items>
